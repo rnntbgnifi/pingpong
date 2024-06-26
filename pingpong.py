@@ -13,3 +13,4 @@ while game:
         if e.type == QUIT:
             game = False
     display.update()
+#zmena
